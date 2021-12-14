@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @theGhostick ComputerPhileGuy
+- 👀 I’m interested in Networks and Programming
+- 🌱 I’m currently learning Java , computer networks and bunch of other things related to computer science 
+- 💞️ I’m looking to collaborate on amazing projects
+- 📫  ab_ah99@hotmail.com
